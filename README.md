@@ -1,4 +1,4 @@
-# House Price Prediction
+# HOUSE PRICE PREDICTION
 ## AIM:
 To design a website to train the house price model and to predict the price.
 
@@ -86,7 +86,7 @@ Publish the website in the given URL.
 </html>
 ```
 
-### HOUSEMODELPREDICTION
+### HOUSE MODEL PREDICTION:
 ```
 <!doctype html>
 <html lang="en">
